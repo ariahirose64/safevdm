@@ -1,2 +1,2 @@
 # safevdm
-a shim that can get past the rius detecting in moder windows for 16 bit apps (basically a fowarder) wip
+a shim that can get past the vrius detecting in modern windows for 16 bit apps (basically a forwarder) wip
