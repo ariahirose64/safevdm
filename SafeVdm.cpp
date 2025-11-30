@@ -11,7 +11,7 @@ typedef struct {
     wchar_t win16[MAX_PATH];
 } Config;
 
-// apparently i tha holes at redmond banned the entire cpp lang and did the blow and hookers thing
+// apparently the holes at redmond banned the entire cpp lang and did the blow and hookers thing
 // this isnt cpp anymore holy shit.
 void safe_wcopy(wchar_t* dst, const wchar_t* src, size_t dstsize) {
     size_t i = 0;
@@ -238,4 +238,5 @@ int wmain(int argc, wchar_t* argv[]) {
 }
 
 // overall i litteraly could have done this in gcc and not had the ghost of bill gates tell me
+
 // im doing what i have done for 20 years all wrong reqrite it in rust you cunt!
